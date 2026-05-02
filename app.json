@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "RxRight",
+    "slug": "rxright",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "rxright",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1D9E75"
+      },
+      "package": "com.rxright.app"
+    }
+  }
+}
